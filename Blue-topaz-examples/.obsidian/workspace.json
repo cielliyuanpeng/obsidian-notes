@@ -1,0 +1,302 @@
+{
+  "main": {
+    "id": "e8b4ea94b39a8520",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bbe2deff908dd60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "944517de283150b7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "60-Canvas/Home_middle.canvas",
+                "viewState": {
+                  "x": -10452.012018334373,
+                  "y": -10105.74841400141,
+                  "zoom": -0.5809317117344484
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e0b1c3a7116d16dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-Booknote/40-Booknote.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6466340a51a66006",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "302acc2abf3dbf61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "untitled.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "687357708cbc920f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bc1edcafd063cfb",
+        "type": "tabs",
+        "dimension": 68.13048933500627,
+        "children": [
+          {
+            "id": "37c8f55a8ef7a09c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3290ae399933a0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d21402f76dc34c3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2c2f4dfc8473d58",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d877e8285f98a38a",
+        "type": "tabs",
+        "dimension": 31.869510664993726,
+        "children": [
+          {
+            "id": "b37bc3d287f74512",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.9945435523987
+  },
+  "right": {
+    "id": "4e390742ffc29613",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4c25b22f0c7d5f0",
+        "type": "tabs",
+        "dimension": 36.340852130325814,
+        "children": [
+          {
+            "id": "ca4e910af4602420",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "340969ccd24905e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "untitled.md"
+              }
+            }
+          },
+          {
+            "id": "83061aceea29f566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "88-Template/彩色时钟.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0b3485207df574dd",
+        "type": "tabs",
+        "dimension": 63.65914786967418,
+        "children": [
+          {
+            "id": "041c78328387b373",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "untitled.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "byModifiedTime",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc4a81bfd6624166",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2ae90cb6049dbe9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8851ccb0aa4e524a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "88-Template/常用工具.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "obsidian-weread-plugin:Weread": false,
+      "surfing:surfing-bookmark-manager": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "periodic-notes:Open today's daily note": false,
+      "dbfolder:创建一个新数据库表": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false,
+      "cmdr:显示当前文件": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "37c8f55a8ef7a09c",
+  "lastOpenFiles": [
+    "88-Template/常用工具.md",
+    "40-Booknote/40-Booknote.md",
+    "60-Canvas/Home_middle.canvas",
+    "双链使用.md",
+    "10-Help/MarkDown教程 Obsidian版 2022.4.22.md",
+    "命令 嵌入callot.png.md",
+    "00-Tips/00-Tips.md",
+    "50-Inbox/Logs/home.md",
+    "50-Inbox/Study/20221231235546.md",
+    "untitled.md",
+    "20230605141843.md",
+    "77-Example/◾ Dataview相关实例/随机展示笔记.md",
+    "77-Example/伪看板-ad,callout声明.md",
+    "88-Template/88-Template.md",
+    "10-Help/Lillian Who Obsidian新手入门教程.md",
+    "10-Help/Mermaid从入门到入土.md",
+    "10-Help/10-Help.md",
+    "77-Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
+    "从这开始.md",
+    "77-Example/77-Example.md",
+    "77-Example/对话形式笔记.md",
+    "77-Example/表格自定义样式.md",
+    "77-Example/◾ TableExample/◾ TableExample.md",
+    "77-Example/◾ Dataview相关实例/◾ Dataview相关实例.md",
+    "77-Example/◾ Cssclass声明样式举例/◾ Cssclass声明样式举例.md",
+    "77-Example/最近天气查询.md",
+    "99-Attachment/Recording 20230605125622.webm",
+    "60-Canvas/代码块相关样式_middle.canvas",
+    "60-Canvas/canvas白板介绍_middle.canvas",
+    "60-Canvas/Assets/1505323928_home_.png"
+  ]
+}
