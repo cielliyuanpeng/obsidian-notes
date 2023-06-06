@@ -13,67 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发踩坑日记.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e957669723560c97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/图片自动移动到指定文件夹中.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d7e390e7f1da2e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发踩坑日记.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f48ed80caaceed2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Obsidian/Obsidian Github 同步.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "0bc7c78438abfcaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMake/【todo】Cmake版本配置.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,24 +148,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1f48ed80caaceed2",
+  "active": "251e9216b7679e34",
   "lastOpenFiles": [
+    "图片文件夹/Pasted image 20230606145511.png",
+    "图片文件夹/Pasted image 20230606145349.png",
+    "图片文件夹/Pasted image 20230606145053.png",
+    "开发踩坑日记.md",
+    "Obsidian/图片自动移动到指定文件夹中.md",
+    "Obsidian/Obsidian Github 同步.md",
+    "CMake/【todo】Cmake版本配置.md",
     "图片文件夹/Pasted image 20230606115544.png",
     "图片文件夹/Pasted image 20230606112948.png",
     "obsidian-notes",
     "图片文件夹/Pasted image 20230606102852.png",
     "图片文件夹/Pasted image 20230606102839.png",
-    "开发踩坑日记.md",
-    "Obsidian/Obsidian Github 同步.md",
     "ObsidianObsidian Github 同步.md",
     "Obsidian.md",
     "(Obsidian/Obsidian Github 同步.md",
     "(Obsidian",
     "Obsidian/【todo】markdown文件根据标签自动移到指定文件夹中.md",
     "Obsidian/【todo】字太小的图片鼠标移到上面放大.md",
-    "Obsidian/图片自动移动到指定文件夹中.md",
     "编译器相关/VSCode不显示”变量栏“.md",
-    "CMake/【todo】Cmake版本配置.md",
     "编译器相关/【todo】Visual Studio debug&Release区别.md",
     "图片文件夹/Pasted image 20230605170905.png",
     "图片文件夹/Pasted image 20230606093433.png",
@@ -225,9 +176,6 @@
     "CMake",
     "图片文件夹/Pasted image 20230605170209.png",
     "Obsidian",
-    "图片文件夹/Pasted image 20230605170038.png",
-    "图片文件夹/Pasted image 20230605170022.png",
-    "图片文件夹/Pasted image 20230605165949.png",
     "图片文件夹",
     "未命名 2.md",
     "未命名 1.canvas",
